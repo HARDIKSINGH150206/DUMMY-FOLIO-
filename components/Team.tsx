@@ -17,7 +17,7 @@ const teamMembers = [
     name: "Hardik Singh",
     role: "Developer & CI/CD / Integration",
     skills: ["TypeScript", "JavaScript", "NestJS", "PostgreSQL", "Docker"],
-    file: "/resumes/hardik.pdf",
+    file: "/resumes/HARDIK SINGH (Backend).pdf",
     initials: "HS",
   },
 ];
